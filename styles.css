@@ -16,7 +16,7 @@ header{
     justify-content: space-between;
     /* what is the diffrent here between space-between and space-around */
     align-items: center;
-    padding: 10px 200px;
+    padding: 1% 14%;
 }
 
 .logo{
