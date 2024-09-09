@@ -244,3 +244,14 @@ transition: 0.7s ease;
 .end p span{
     color: blue;
 }
+
+@media screen and(max-width: 450px){
+.cards{
+    width: 100%;
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+}
