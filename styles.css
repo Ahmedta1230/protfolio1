@@ -102,8 +102,6 @@ section{
     padding-right: 20px;
 }
 
-
-
 .cards h2{
     display: flex;
     justify-content: center;
@@ -247,7 +245,7 @@ transition: 0.7s ease;
 
 @media screen and(max-width: 450px){
 .cards{
-    width: 100%;
+    width: 100px;
     display: flex;
     box-sizing: border-box;
     flex-direction: row-reverse;
