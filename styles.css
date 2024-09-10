@@ -140,7 +140,7 @@ transition: 0.7s ease;
     transform: scale(1.1);
 }
 
-.child a{
+.child img{
     color: blue;
     font-size: 50px;
     text-align: center;
