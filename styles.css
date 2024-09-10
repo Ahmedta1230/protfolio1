@@ -49,6 +49,7 @@ section{
     align-items: center;
     background: url(backgroundthree.png);
     background-repeat: no-repeat;
+    background-size: cover;
     color: #f0f0f0;
     background-attachment: fixed;
 }
@@ -140,7 +141,7 @@ transition: 0.7s ease;
     transform: scale(1.1);
 }
 
-.child img{
+.child a{
     color: blue;
     font-size: 50px;
     text-align: center;
